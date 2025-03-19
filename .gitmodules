@@ -1,3 +1,9 @@
 [submodule "KTI-Testing-Mobile"]
 	path = KTI-Testing-Mobile
 	url = https://github.com/jzanchi2026/KTI-Testing-Mobile.git
+[submodule "keefeTechInv"]
+	path = keefeTechInv
+	url = https://github.com/jzanchi2026/keefeTechInv.git
+[submodule "kti_login_system"]
+	path = kti_login_system
+	url = https://github.com/jzanchi2026/kti_login_system.git
